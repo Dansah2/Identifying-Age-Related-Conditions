@@ -1,7 +1,7 @@
 # Identifying-Age-Related-Conditions
 Predict whether a subject has or has not been diagnosed with a condition-- a binary classification problem.
 
-Sodiq Sulamimon (https://github.com/sodiq-sulaimon) and I worked on this project together.
+Sodiq Sulaimon (https://github.com/sodiq-sulaimon) and I worked on this project together.
 
 Goal
 
