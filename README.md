@@ -1,6 +1,8 @@
 # Identifying-Age-Related-Conditions
 Predict whether a subject has or has not been diagnosed with a condition-- a binary classification problem.
 
+Sodiq Sulamimon (https://github.com/sodiq-sulaimon) and I worked on this project together.
+
 Goal
 
 The goal is to predict if a person has any of three medical conditions. If the person has one or more of any of the three medical conditions (Class 1), or none of the three medical conditions (Class 0). Create a model trained on measurements of health characteristics.
